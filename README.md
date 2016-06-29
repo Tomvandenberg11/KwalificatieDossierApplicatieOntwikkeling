@@ -1,8 +1,8 @@
-### KwalificatieDossierApplicatieOntwikkeling
+# KwalificatieDossierApplicatieOntwikkeling
 
 ##Applicatie- en Mediaontwikkelaar
 
-#K1: Levert een bijdrage aan het ontwikkeltraject
+###K1: Levert een bijdrage aan het ontwikkeltraject
 
 A.	Stelt de opdracht vast
 
