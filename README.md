@@ -29,6 +29,3 @@
 ####F.	Test het ontwikkelde product
 
 -	De ontwikkelaar test tijdens het realiseren van het product de werking en functie. Hierbij verzamelt hij de gegevens bij het testen en toetst deze op juistheid en betrouwbaarheid. Op basis hiervan komt hij tot onderbouwde conclusies. Ook draagt hij oplossingen aan of doet verbetervoorstellingen en voert zo nodig aanpassingen door.
-
-###K3: Levert een product op
-
